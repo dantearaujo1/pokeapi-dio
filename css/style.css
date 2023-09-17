@@ -12,3 +12,7 @@ body{
   background-color: #f6f0f6;
 }
 
+.pokemon {
+  cursor: pointer;
+}
+
